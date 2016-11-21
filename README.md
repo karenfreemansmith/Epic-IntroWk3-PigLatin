@@ -13,27 +13,22 @@ _This program will output a given phrase in pig latin_
 * _If the first consonants include "qu", move the "u" along with the "q". Don't forget about words like "squeal" where "qu" doesn't come first!_
 * _For words beginning with "y", treat "y" as a consonant._
 
-## Setup/Installation Requirements
-
-* _Clone this repository and run locally_
-* _Download and extract this repository to run locally_
-* _view on gh-pages_
-
-
-## Known Bugs
-
-_N/A_
-
-## Support and contact details
-
-_tweet @calebpaulmusic_
-
 ## Technologies Used
+HTML, CSS
 
-_jQuery_
+## Setup/Installation
+* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* _OR_
+* Clone diectory 
+* Open index.html in your favorite browser
 
-### License
+## Support & Contact
+For questions, concerns, or suggestions please email karenfreemansmith@gmail.com
 
-*Licensed under GNU license*
+## Known Issues
+* None
 
-Copyright (c) 2016 **_Caleb Paul and Karen Freeman-Smith_**
+## Legal
+*Licensed under the GNU General Public License v3.0*
+
+Copyright (c) 2016 Copyright _[Karen Freeman-Smith](https://karenfreemansmith.github.io)_ All Rights Reserved.
